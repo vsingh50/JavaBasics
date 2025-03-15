@@ -293,8 +293,7 @@ public class App {
          * 
          * If you try to invoke multiple terminal operations on the same stream, you'll
          * encounter an IllegalStateException, as the stream is already consumed by the
-         * first terminal operation. Let me know if you want more clarity or examples!
-         * 😊
+         * first terminal operation.
          */
 
         // 1. Collect   -> Collecting into a List:
