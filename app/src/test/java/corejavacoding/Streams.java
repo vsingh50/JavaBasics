@@ -20,11 +20,11 @@ import java.util.stream.Stream;
 
 
 
-public class App {
+public class Streams {
 
     String names;
 
-    public App(String names) {
+    public Streams(String names) {
         this.names = names;
     }
 
